@@ -8,8 +8,6 @@ Casado, 24 anos
 
 Tenho paixão por desenvolvimento, código limpo. Busco diariamente aprimorar meus conhecimentos e seguir
 a máxima de que um bom código não precisa de comentários. Tenho facilidade de aprender novas linguagens e novos conceitos.
-Gostaria de uma oportunidade na Globo.com porque acredito que teria um crescimento profissional gigante e poderia trocar 
-experiência com os melhores do mercado.
 
 ###Conhecimentos
 * Ruby On Rails
