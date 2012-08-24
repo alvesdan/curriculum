@@ -11,12 +11,14 @@ a máxima de que um bom código não precisa de comentários. Tenho facilidade d
 Gostaria de uma oportunidade na Globo.com porque acredito que teria um crescimento profissional gigante e poderia trocar 
 experiência com os melhores do mercado.
 
-###Cursos
-* Ruby On Rails - E-Genial
-* Imersão Ruby On Rails - E-Genial
-
-###Idiomas
-* Inglês intermediário
+###Conhecimentos
+* Ruby On Rails
+* Rspec
+* PHP
+* Objective-C básico
+* Javascript (jQuery)
+* HTML5
+* CSS3
 
 ###Experiência
 * __Desenvolvedor Ruby On Rails na startup CupomNow__
@@ -35,3 +37,10 @@ experiência com os melhores do mercado.
 
 ###Educação
 * Graduação - Design Gráfico - UNESA
+
+###Cursos
+* Ruby On Rails - E-Genial
+* Imersão Ruby On Rails - E-Genial
+
+###Idiomas
+* Inglês intermediário
