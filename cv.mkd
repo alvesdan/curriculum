@@ -1,10 +1,9 @@
 Daniel Pinto Alves Chaves Silva
 Casado, 24 anos
 --------------
-
-Email: daniel.alves.me@gmail.com
-Portfolio: http://danielalves.me
-Linkedin: http://www.linkedin.com/pub/daniel-alves/18/5aa/360
+* Email: daniel.alves.me@gmail.com
+* Portfolio: http://danielalves.me
+* Linkedin: http://www.linkedin.com/pub/daniel-alves/18/5aa/360
 
 ###Cursos
 * Ruby On Rails - E-Genial
@@ -15,6 +14,7 @@ Linkedin: http://www.linkedin.com/pub/daniel-alves/18/5aa/360
 
 ###Experiência
 * Desenvolvedor Ruby On Rails na startup CupomNow
+    * Desenvolvimento do portal de descontos utilizando base de dados MySQL e Resque para tarefas agendadas
 * Desenvolvedor back-end na Kaus Mídia
 * Desenvolvedor back/front-end na Inventhar Comunicação Digital
 * Desenvolvedor back/front-end na E-seven
