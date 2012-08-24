@@ -15,15 +15,18 @@ Casado, 24 anos
 ###Experiência
 * __Desenvolvedor Ruby On Rails na startup CupomNow__
     * Desenvolvimento do portal de descontos utilizando base de dados MySQL e Resque para tarefas agendadas
+
 * __Desenvolvedor back-end na Kaus Mídia__
    * Aplicativo de bolão virtual para Petrobras (Codeiginter + MySQL)
    * Sistema de votação eletrônica (Codeiginter + MySQL)
    * Aplicativo mobile iOS para calcular valor de um post pago (blog)
    * Aplicativo mobile HTML5 para desenhar no iPad
    * Aplicativo mobile iOS para Kerastake
+
 * __Desenvolvedor back/front-end na Inventhar Comunicação Digital__
    * Portal da ABEN (Associação Brasileira de Energia Nuclear)
    * Diversos Hotsite em Adobe Flash
+
 * __Desenvolvedor back/front-end na E-seven__
    * Sistema de gerenciamento de crédito consignado, utilizado por mais de 10 empresas do setor
 
