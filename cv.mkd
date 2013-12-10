@@ -1,35 +1,50 @@
 Daniel Pinto Alves Chaves Silva
 --------------
-Married, 24 years old
+Married, 25 years old
 * Email: daniel.alves.me@gmail.com
 * Portfolio: http://danielalves.me
 * Linkedin: http://www.linkedin.com/in/alvesdan
 * Github: https://github.com/alvesdan/
 
-I'm a developer passionate about ruby, agile development, startups and other cool stuffs. I'm always
-looking for building scalable, fast and user friendly applications.
+I'm a brazilian developer looking for a great and outstanding experience. I’m passionate about ruby, javascript, agile development, startups and other cool stuffs. I'm always looking for building scalable, fast and user friendly applications.
 
-###Skills
-* Ruby On Rails
-* Rspec
-* PHP
-* Objective-C (basic)
-* Javascript (jQuery, Coffeescript)
-* HTML5
-* CSS3
+__I’ve been working with:__ Ruby, PHP, Javascript (jQuery, Coffeescript), Objective­C (basic), HTML5, CSS3, Heroku, Redis, MongoDB, MySQL, PostgreSQL.
 
 ###Experience
-* __Ruby On Rails developer at startup CupomNow__
-    * Development of the discounts portal using MySQL database and Resque for scheduled tasks
-* __Back-end developer at Kaus Mídia__
-   * Application of Virtual bowling for Petrobras (CodeIgniter + MySQL)
+* __Lead developer at On a Map, Inc (2013)__
+   * Lead developer of entire application with Facebook login, upload system, likes and ratings system and replies system
+* __Lead developer at CupomNow (2011-2013)__
+   * Development of the discounts portal using MySQL database and Resque for scheduled tasks
+* __Web developer at Kaus Mídia__
+   * Application of Virtual bowling for Petrobras (CodeIgniter + MySQL) 
    * Electronic voting system (CodeIgniter + MySQL)
-   * Mobile iOS app to calculate the value of a post paid (blog)
+   * Mobile iOS app to calculate the value of a post
    * Mobile HTML5 app for drawing on the iPad
    * iOS mobile application for Kerastase
+* __Web developer at Inventhar Comunicação Digital__
+   * Development of web portals, hotsites and CMS systems
+* __Web developer at E-seven__
+   * Development of complex financial system that allowed more than 10 companies manage their customers
 
-###Education
-* Graduation - Graphic Design - UNESA
+###Projects
+* __Girls on a Map__
+   * http://www.girlsonamap.com
+   * Facebook login, upload, likes, ratings and replies system. Using Heroku with PostgreSQL, Rails 3.2, Ruby 2.0 and SASS.
+* __Recipppe__
+   * http://www.recipppe.com
+   * Reponsive recipe application where you can quickly save your recipes and share with your friends. Using Heroku with MongoDB, Rails 3.2 and Ruby 2.0.
+* __Instagger__
+   * http://www.instagger.com/
+   * Blogging platform integrated with Instagram and using HTML5 content editable feature to edit all your blog. Using Heroku with PostgreSQL, Rails 4, Ruby 2.0, Coffescript and SASS. The jQuery plugin that allow HTML5 edition was developed by me (beta application tested on Chrome 31.0, Safari 7 and Firefox 25.0).
+   * Plugin Github: https://github.com/alvesdan/jquery­liveedit
+* __Instagger Wall__
+   * http://wall.instagger.com/
+   * Create photo albums with your friends using Instagram tags. You can manage the album and remove the photos you don’t want.
+* __HTML5 Drawing__
+   * http://drawing.danalv .es/
+   * HTML5 mobile application to draw with iPad. Using Sinatra, Ruby 2.0, HAML, Coffescript and SASS.
+* __CupomNow (brazilian startup)__
+   * Development of the discounts portal with CMS background system. Using Amazon AWS with MySQL, Redis, Rails 3.0 and Ruby 1.8.
 
 ###Languages
 * Portuguese - native language
