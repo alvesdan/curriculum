@@ -48,4 +48,4 @@ __I’ve been working with:__ Ruby, PHP, Javascript (jQuery, Coffeescript), Obje
 
 ###Languages
 * Portuguese - native language
-* English - Limited working proficiency
+* English - Professional working proficiency
