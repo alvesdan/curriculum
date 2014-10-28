@@ -34,7 +34,6 @@ __I’ve been working with:__ Ruby, PHP, Javascript (jQuery, Coffeescript), Obje
 * __Instagger__
    * http://www.instagger.com/
    * Blogging platform integrated with Instagram and using HTML5 content editable feature to edit all your blog. Using Heroku with PostgreSQL, Rails 4, Ruby 2.0, Coffescript and SASS. The jQuery plugin that allow HTML5 edition was developed by me (beta application tested on Chrome 31.0, Safari 7 and Firefox 25.0).
-   * Plugin Github: https://github.com/alvesdan/jquery­liveedit
 * __Instagger Wall__
    * http://wall.instagger.com/
    * Create photo albums with your friends using Instagram tags. You can manage the album and remove the photos you don’t want.
