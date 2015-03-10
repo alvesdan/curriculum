@@ -1,14 +1,14 @@
 Daniel Alves
 --------------
-Married, 25 years old
+Married, 26 years old
 * Email: daniel.alves.me@gmail.com
 * Portfolio: http://danielalves.me
 * Linkedin: http://www.linkedin.com/in/alvesdan
 * Github: https://github.com/alvesdan/
 
-I'm a brazilian developer looking for a great and outstanding experience. I’m passionate about ruby, javascript, agile development, startups and other cool stuffs. I'm always looking for building scalable, fast and user friendly applications.
+I'm a brazilian developer looking for a great and outstanding experience. I like to work with ruby, agile development, startups and other cool stuffs. I'm always looking for building scalable, fast and user friendly applications and learn new things.
 
-__I’ve been working with:__ Ruby, Javascript, PostgreSQL, MySQL, Redis, MongoDB.
+__I’ve been working with:__ Ruby, PostgreSQL, MySQL, Redis and MongoDB.
 
 ###Experience
 * __Ruby Developer at Driftrock (2014-2015)__
@@ -16,15 +16,15 @@ __I’ve been working with:__ Ruby, Javascript, PostgreSQL, MySQL, Redis, MongoD
 * __Lead developer at On a Map, Inc (2013-2014)__
 * __Lead developer at CupomNow (2011-2013)__
    * Development of the discounts portal using MySQL database and Resque for scheduled tasks
-* __Web developer at Kaus Mídia__
+* __Web developer at Kaus Mídia (2010-2011)__
    * Application of Virtual bowling for Petrobras (CodeIgniter + MySQL) 
    * Electronic voting system (CodeIgniter + MySQL)
    * Mobile iOS app to calculate the value of a post
    * Mobile HTML5 app for drawing on the iPad
    * iOS mobile application for Kerastase
-* __Web developer at Inventhar Comunicação Digital__
+* __Web developer at Inventhar Comunicação Digital (2008-2010)__
    * Development of web portals, hotsites and CMS systems
-* __Web developer at E-seven__
+* __Web developer at E-seven (2006-2008)__
    * Development of complex financial system that allowed more than 10 companies manage their customers
 
 ###Projects
