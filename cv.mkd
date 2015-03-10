@@ -8,10 +8,10 @@ Married, 25 years old
 
 I'm a brazilian developer looking for a great and outstanding experience. I’m passionate about ruby, javascript, agile development, startups and other cool stuffs. I'm always looking for building scalable, fast and user friendly applications.
 
-__I’ve been working with:__ Ruby, PHP, Javascript (jQuery, Coffeescript), Objective­C (basic), HTML5, CSS3, Heroku, Redis, MongoDB, MySQL, PostgreSQL.
+__I’ve been working with:__ Ruby, Javascript, PostgreSQL, MySQL, Redis, MongoDB.
 
 ###Experience
-* __Ruby Developer at Driftrock (2014)__
+* __Ruby Developer at Driftrock (2014-2015)__
 * __Ruby Developer at Sage Portugal (2014)__
 * __Lead developer at On a Map, Inc (2013-2014)__
 * __Lead developer at CupomNow (2011-2013)__
@@ -28,18 +28,12 @@ __I’ve been working with:__ Ruby, PHP, Javascript (jQuery, Coffeescript), Obje
    * Development of complex financial system that allowed more than 10 companies manage their customers
 
 ###Projects
-* __Recipppe__
-   * http://www.recipppe.com
-   * Reponsive recipe application where you can quickly save your recipes and share with your friends. Using Heroku with MongoDB, Rails 3.2 and Ruby 2.0.
+* __Form Journey__
+   * https://github.com/Driftrock/form_journey
+   * Create multi page form easily with Rails.
 * __Instagger__
    * http://www.instagger.com/
-   * Blogging platform integrated with Instagram and using HTML5 content editable feature to edit all your blog. Using Heroku with PostgreSQL, Rails 4, Ruby 2.0, Coffescript and SASS. The jQuery plugin that allow HTML5 edition was developed by me (beta application tested on Chrome 31.0, Safari 7 and Firefox 25.0).
-* __Instagger Wall__
-   * http://wall.instagger.com/
-   * Create photo albums with your friends using Instagram tags. You can manage the album and remove the photos you don’t want.
-* __HTML5 Drawing__
-   * http://drawing.danieialves.me/
-   * HTML5 mobile application to draw with iPad. Using Sinatra, Ruby 2.0, HAML, Coffescript and SASS.
+   * Your weekly dose of Instagram statistics
 * __CupomNow (brazilian startup)__
    * Development of the discounts portal with CMS background system. Using Amazon AWS with MySQL, Redis and Rails 3.
 
