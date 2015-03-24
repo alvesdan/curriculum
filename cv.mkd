@@ -8,14 +8,15 @@ Married, 26 years old
 
 I'm a brazilian developer looking for a great and outstanding experience. I like to work with ruby, agile development, startups and other cool stuffs. I'm always looking for building scalable, fast and user friendly applications and learn new things.
 
-__I’ve been working with:__ Ruby, PostgreSQL, MySQL, Redis and MongoDB.
+__I’ve been working with:__ Ruby, Javascript, PostgreSQL, MySQL, Redis and MongoDB.
 
 ###Experience
 * __Ruby Developer at Driftrock (2014-2015)__
+   * Work with multiple applications, third-party API integrations and background processes.
 * __Ruby Developer at Sage Portugal (2014)__
 * __Lead developer at On a Map, Inc (2013-2014)__
 * __Lead developer at CupomNow (2011-2013)__
-   * Development of the discounts portal using MySQL database and Resque for scheduled tasks
+   * Development of the daily discounts portal from scratch
 * __Web developer at Kaus Mídia (2010-2011)__
    * Application of Virtual bowling for Petrobras (CodeIgniter + MySQL) 
    * Electronic voting system (CodeIgniter + MySQL)
