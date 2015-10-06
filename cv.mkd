@@ -8,9 +8,10 @@ Married, 27 years old
 
 I'm a brazilian developer looking for a great and outstanding experience. I like to work with ruby, agile development, startups and other cool stuffs. I'm always looking for building scalable, fast and user friendly applications and learn new things.
 
-__I’ve been working with:__ Ruby, Javascript, PostgreSQL, MySQL, Redis and MongoDB.
+__I’ve been working with:__ Perl, Ruby, Javascript, PostgreSQL, MySQL, Redis and MongoDB.
 
 ###Experience
+* __Software Developer at Booking.com (2015)__
 * __Ruby Developer at Driftrock (2014-2015)__
    * Work with multiple applications, third-party API integrations and background processes.
 * __Ruby Developer at Sage Portugal (2014)__
@@ -39,5 +40,5 @@ __I’ve been working with:__ Ruby, Javascript, PostgreSQL, MySQL, Redis and Mon
    * Development of the discounts portal with CMS background system. Using Amazon AWS with MySQL, Redis and Rails 3.
 
 ###Languages
-* Portuguese - native language
-* English - Professional working proficiency
+* Portuguese
+* English
